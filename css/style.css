@@ -74,3 +74,22 @@ font-style: normal;
   .title {
     font-style: italic;
   }
+
+h1, h2{
+  font-size: 18px;
+}
+  .city{
+
+  }
+
+  .day{
+
+  }
+
+  .btn{
+    padding: 10px 5px;
+width: 50px;
+height: 30px;
+margin-bottom: 40px;
+
+  }
